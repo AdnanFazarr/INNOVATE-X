@@ -1,0 +1,7 @@
+{
+  "name": "TingStudip - Smart Student Management with AI",
+  "description": "An AI-powered futuristic education platform focusing on positive motivation, rewards, and student wellbeing through soft-tech UI and glassmorphism.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
